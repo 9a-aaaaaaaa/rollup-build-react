@@ -3,8 +3,10 @@
 
 ### test
 
+```
 cd example
 npx link ..
+```
 
 
 ## Q
